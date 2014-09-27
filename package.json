@@ -1,29 +1,31 @@
 {
-  "name": "Sanbox",
-  "description": "Sandbox for Arduino :: node.js experiments",
-  "version": "0.0.1",
-  "main": "./sandbox.js",
-  "scripts": {"start": "node sandbox.js"},
-  "author": {
-    "name": "108adams",
-    "email": "108adams@gmail.com"
+  "name" : "Sandbox",
+  "description" : "Sandbox for Arduino :: node.js experiments",
+  "version" : "0.0.1",
+  "main" : "./sandbox.js",
+  "scripts" : {
+    "start" : "node sandbox.js"
   },
-  "keywords": [],
-  "licenses": {
-    "type": "gpl30"
+  "author" : {
+    "name" : "108adams",
+    "email" : "108adams@gmail.com"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/108adams/node-arduino-sandbox"
+  "keywords" : [ ],
+  "licenses" : {
+    "type" : "gpl30"
   },
-  "bugs": {
-    "url": "http://github.com/108adams/node-arduino-sandbox/issues"
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/108adams/node-arduino-sandbox"
   },
-  "license": {
-    "type": "gplv3"
+  "bugs" : {
+    "url" : "http://github.com/108adams/node-arduino-sandbox/issues"
+  },
+  "license" : {
+    "type" : "gplv2"
   },
   "private" : true,
-  "devDependencies": {
-    "johnny-five": "^0.8.11"
+  "devDependencies" : {
+    "johnny-five" : "^0.8.11"
   }
 }
