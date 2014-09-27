@@ -1,0 +1,24 @@
+{
+  "name" : "Sanbox",
+  "description" : "Sandbox for Arduino :: node.js experiments",
+  "version" : "0.0.1",
+  "main" : "./Sanbox.js",
+  "author" : {
+    "name" : "108adams",
+    "email" : "108adams@gmail.com"
+  },
+  "keywords" : [ ],
+  "licenses" : {
+    "type" : "gpl30"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/YOUR_LOGIN/Sanbox.git"
+  },
+  "bugs" : {
+    "url" : "http://github.com/108adams/Sanbox/issues"
+  },
+  "license" : {
+    "type" : "gplv3"
+  }
+}
